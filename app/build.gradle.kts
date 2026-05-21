@@ -7,11 +7,13 @@ plugins {
 }
 
 android {
-    namespace = "com.ahmetocak.chatapp"
+    // UPDATED: Changed namespace to Zetra branding
+    namespace = "com.zetra.zetragram"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.ahmetocak.chatapp"
+        // UPDATED: Changed applicationId to Zetra branding
+        applicationId = "com.zetra.zetragram"
         minSdk = 26
         targetSdk = 34
         versionCode = 1
@@ -53,7 +55,6 @@ android {
 }
 
 dependencies {
-
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.androidx.activity.compose)
