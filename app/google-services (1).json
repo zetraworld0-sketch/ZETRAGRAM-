@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "423914754412",
+    "project_id": "zetra-1e6fd",
+    "storage_bucket": "zetra-1e6fd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423914754412:android:46a5feab68b1b3f6d9e349",
+        "android_client_info": {
+          "package_name": "Com.zetra.zetragram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-mza1wTRZZE15IXi1FZ7EIfcoSaS8fs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
