@@ -42,7 +42,7 @@
         </activity>
         <provider
             android:name="androidx.core.content.FileProvider"
-            android:authorities="com.ahmetocak.chatapp.provider"
+            android:authorities="com.zetra.zetragram.provider"
             android:exported="false"
             android:grantUriPermissions="true">
             <meta-data
